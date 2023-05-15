@@ -14,7 +14,7 @@ tight = 130  # 夹紧时的6号舵机角度(需比读取到的角度略大3~5°)
 loose = 50  # 松开使的6号舵机角度
 level_servo_2 = 180  # 待命位调水平时的2号舵机角度
 level_servo_3 = 4  # 待命位调水平时的3号舵机角度
-level_servo_4 = 4  # 待命位调水平时的4号舵机角度
+level_servo_4 = 5  # 待命位调水平时的4号舵机角度
 
 
 def read_servo_degree():
